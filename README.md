@@ -1,3 +1,3 @@
-# Repositorio Remoto
+# Repositorio Local
 
-Descricao inserida no Repositorio Remoto antes do Clone.
+Descricao inserida no Repositorio Local depois do Clone.
